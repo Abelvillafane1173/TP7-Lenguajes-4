@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: 'TP7-Lenguajes-4',
+  base: '/TP7-Lenguajes-4/',
 })
